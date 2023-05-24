@@ -1,0 +1,120 @@
+/* .App {
+          background-color: aquamarine;
+      }
+
+
+ h1#data {
+          font-size: 20px;
+          font-family: cursive;
+          color: chocolate;
+          margin-top: 20px;
+      } */
+
+
+
+/* .App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.picture {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3e8e41;
+}
+
+#data {
+    margin-top: 30px;
+} */
+
+
+
+
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 11px;
+    font-family: sans-serif;
+}
+  
+.picture {
+    width: 280px;
+    height: 350px;
+    border: 1px solid #ccc;
+    object-fit: cover;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+  
+  .button-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    border-radius: 13px;
+}
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
+  #data {
+    margin-top: 15px;
+  }
+ 
+  
+  .box {
+    width: 400px;
+    height: 600px;
+    border: 1px solid gray;
+    position: relative;
+}
+
+
+img.user {
+    width: 50px;
+    float: left;
+    height: 50px;
+    background-color: lightseagreen;
+}
