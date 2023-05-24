@@ -6,5 +6,9 @@
 ## Screenshort
 
 
-Uploading usercrud.mov…
+
+
+https://github.com/anugrahmasih261/usercrud/assets/65607767/b38a3c32-e80c-4460-9245-e256f39f30b9
+
+
 
